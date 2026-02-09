@@ -10,6 +10,16 @@ export const projectsData = [
         demo: 'https://films-kappa-one.vercel.app/',
     },
     {
+        id: 163,
+        name: 'GoCart E-Commerce Platform',
+        image: "/project-image/gocart.png",
+        description: "GoCart is a modern e-commerce platform built with Next.js, JavaScript, and Tailwind CSS. It features a sleek, responsive design and utilizes React Query for efficient data fetching and state management. The project includes a product catalog, shopping cart functionality, and user authentication using Clerk. GoCart provides a seamless shopping experience with smooth animations and intuitive UI components.",
+        tools: ['JavaScript', 'Next.js', 'Tailwind Css', 'Redux Toolkit', 'React-Query', 'Clerk Auth'],
+        role: 'Frontend Developer',
+        github: 'https://github.com/fenix1409/gocart-shopify-store',
+        demo: 'https://gocart-shopify-store.vercel.app/',
+    },
+    {
         id: 4121,
         name: 'QuickGPT - AI Chatbot Platform',
         image: "/project-image/gpt.png",
