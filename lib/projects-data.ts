@@ -1,5 +1,15 @@
 export const projectsData = [
     {
+        id: 162326,
+        name: 'Optimum - Car Rental Platform',
+        image: "/project-image/optimum.png",
+        description: "Optimum is a car rental platform built with HTML, CSS, and JavaScript. It features a sleek, modern design and allows users to browse and rent cars with ease. The project includes a responsive layout, smooth animations, and an intuitive user interface for a seamless car rental experience.",
+        tools: ['JavaScript', 'HTML5', 'CSS', 'SCSS'],
+        role: 'Frontend Developer',
+        github: 'https://github.com/fenix1409/Carshipment',
+        demo: 'https://carshipment-w6r1.vercel.app/',
+    },
+    {
         id: 1,
         name: 'Movies',
         image: "/project-image/movies.png",
