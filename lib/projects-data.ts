@@ -10,6 +10,16 @@ export const projectsData = [
         demo: 'https://carshipment-w6r1.vercel.app/',
     },
     {
+        id: 3,
+        name: 'Al-Muamalat',
+        image: "/project-image/al-muamalat.png",
+        description: 'Al-Muamalat is a modern web application designed for managing financial transactions and services. It features a user-friendly interface built with React, TypeScript, and Tailwind CSS. The project utilizes React Query for efficient data fetching and state management, and Axios for API requests. The application includes features such as transaction history, account management, and financial analytics.',
+        tools: ['React JS', 'Tailwind CSS', 'CSS', 'TypeScript', 'React-Query', 'Axios', 'Framer-motion', 'Swiper'],
+        // github: 'https://github.com/fenix1409/al-muamalat',
+        demo: "https://www.al-muamalat.uz/",
+        role: 'Frontend Developer',
+    },
+    {
         id: 1,
         name: 'Movies',
         image: "/project-image/movies.png",
@@ -89,16 +99,6 @@ export const projectsData = [
     //     demo: "https://www.piknicuz.com/",
     //     role: 'Frontend Developer',
     // },
-    {
-        id: 3,
-        name: 'Al-Muamalat',
-        image: "/project-image/al-muamalat.png",
-        description: 'Al-Muamalat is a modern web application designed for managing financial transactions and services. It features a user-friendly interface built with React, TypeScript, and Tailwind CSS. The project utilizes React Query for efficient data fetching and state management, and Axios for API requests. The application includes features such as transaction history, account management, and financial analytics.',
-        tools: ['React JS', 'Tailwind CSS', 'CSS', 'TypeScript', 'React-Query', 'Axios', 'Framer-motion', 'Swiper'],
-        // github: 'https://github.com/fenix1409/al-muamalat',
-        demo: "https://www.al-muamalat.uz/",
-        role: 'Frontend Developer',
-    },
     // {
     //     id: 4,
     //     name: 'Segway',
